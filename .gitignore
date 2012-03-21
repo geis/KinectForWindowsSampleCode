@@ -76,6 +76,7 @@ Obj
 sql
 TestResults
 *.Cache
+*.cache
 ClientBin
 stylecop.*
 ~$*
