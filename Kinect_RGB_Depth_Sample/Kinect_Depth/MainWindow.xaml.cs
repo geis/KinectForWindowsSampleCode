@@ -95,7 +95,7 @@ namespace Kinect_Depth
                 int distance = depthPixel[index] >> DepthImageFrame.PlayerIndexBitmaskWidth;
                 int colorIndex = index * Bgr32BytesPerPixel;
 
-                // 赤：サポート外 0-40cm
+                // 赤：サポート外 0-40cm, 8m-
                 if (distance == depthStream.UnknownDepth)
                 {
                     depthColor[colorIndex] = 0;
