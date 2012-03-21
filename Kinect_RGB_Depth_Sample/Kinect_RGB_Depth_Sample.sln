@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_RGB", "Kinect_RGB\Kinect_RGB.csproj", "{7CA4EE82-B0B2-4F77-A4C5-D438A53E2D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect_Depth", "Kinect_Depth\Kinect_Depth.csproj", "{6652B05E-1C6D-4D70-8393-EE013EAD3E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA4EE82-B0B2-4F77-A4C5-D438A53E2D06}.Debug|x86.ActiveCfg = Debug|x86
+		{7CA4EE82-B0B2-4F77-A4C5-D438A53E2D06}.Debug|x86.Build.0 = Debug|x86
+		{7CA4EE82-B0B2-4F77-A4C5-D438A53E2D06}.Release|x86.ActiveCfg = Release|x86
+		{7CA4EE82-B0B2-4F77-A4C5-D438A53E2D06}.Release|x86.Build.0 = Release|x86
+		{6652B05E-1C6D-4D70-8393-EE013EAD3E60}.Debug|x86.ActiveCfg = Debug|x86
+		{6652B05E-1C6D-4D70-8393-EE013EAD3E60}.Debug|x86.Build.0 = Debug|x86
+		{6652B05E-1C6D-4D70-8393-EE013EAD3E60}.Release|x86.ActiveCfg = Release|x86
+		{6652B05E-1C6D-4D70-8393-EE013EAD3E60}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
