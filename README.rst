@@ -9,7 +9,7 @@
 #. 第2回： `ユーザー・インターフェースとしてのKinect(前編) <http://www.unidux.co.jp/embedded/column/2012/02/000778.php>`_
 #. 第3回： `ユーザー・インターフェースとしてのKinect(後編) <http://www.unidux.co.jp/embedded/column/2012/03/000781.php>`_
 #. 第4回： `Kinectを動かしてみよう！(RGB・深度カメラ編) <http://www.unidux.co.jp/embedded/column/2012/04/000785.php>`_
-
+#. 第5回： `Kinectを動かしてみよう！(プレイヤー・スケルトン編) <http://www.unidux.co.jp/embedded/column/2012/05/000791.php>`_
 
 ライセンス
 ====================
